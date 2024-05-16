@@ -1,0 +1,18 @@
+[
+    {
+        "nomApp": "Fiche d'habilitation",
+        "urlApp": "habilitation",
+        "imageApp":"habilitie_app.jfif",
+        "codeApp":"all",
+        "modeApercue":"_self"
+    }
+    ,
+    {
+        "nomApp": "Freeze",
+        "urlApp": "freez",
+        "imageApp":"freez-image.png",
+        "codeApp": "freez",
+        "modeApercue":"_blank"
+    }
+
+]
